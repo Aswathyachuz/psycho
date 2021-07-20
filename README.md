@@ -44,8 +44,8 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">PSYCHO_ACHU_</a> to 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Psychoachu/Sophia.git)
-     </div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=.git)
+     </div>https://github.com/Aswathyachuz/psycho
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
